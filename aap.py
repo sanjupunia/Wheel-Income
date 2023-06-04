@@ -9,7 +9,7 @@ def hello():
     <html>
     <body>
     <h1>Hello World</h1>
-    <p>I'm hosted with Flask.</p>
+    <p>Test site.</p>
     </body>
     </html>
     """
